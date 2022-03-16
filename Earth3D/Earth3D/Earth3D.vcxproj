@@ -22,7 +22,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{3564c3e0-fe57-4db1-9f09-871e03b6f501}</ProjectGuid>
+    <ProjectGuid>{96519e36-d9e7-4187-bd4f-ff46a8e35b1c}</ProjectGuid>
     <RootNamespace>Earth3D</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
